@@ -1,0 +1,5 @@
+# ninja log v5
+1	237	6918149179614597	build.ninja	adbf3433aece7f5f
+2	996	6910177276490258	CMakeFiles/Assignment3.dir/main.cpp.obj	a77158c7a8993aa1
+2	1558	6910506777745003	CMakeFiles/Assignment3.dir/PQdemo.cpp.obj	c525c01c27aa9b5c
+1559	1672	6910506778872008	Assignment3.exe	7b9bd95994e8d4a3
